@@ -1,0 +1,6 @@
+Testing to see if visual studio 2017 hidden files get uploaded to git. 
+They shouldn't due to the CustomGitIgnore.gitignore file.
+Updating this file to see if Git will upload .vs/* files, it shouldn't because of the updated CustomGitIgnore.gitignore file
+Lets try this again
+One more time 
+uno mas
