@@ -1,0 +1,2 @@
+Testing to see if visual studio 2017 hidden files get uploaded to git. 
+They shouldn't due to the CustomGitIgnore.gitignore file.
