@@ -1,4 +1,6 @@
 # ignore visual studios code files
+.vs
+.vs/*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
